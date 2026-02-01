@@ -14,7 +14,7 @@ I also cannot guarantee that quotes will be displayed on Windows. Obtaining them
 
 - **NASM** compiler
 - **CMake** 3.16 or higher
-- **C compiler** if yiu going to build tests
+- **C compiler** if you going to build tests
 
 # Building
 
