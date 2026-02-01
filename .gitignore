@@ -1,0 +1,12 @@
+# IDE stuff
+
+*.code-workspace
+
+# Emacs
+
+*#
+*~
+
+# Build stuff
+
+build
