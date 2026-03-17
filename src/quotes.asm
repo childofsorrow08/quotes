@@ -62,6 +62,12 @@ q%+QUOTE_ID:
             ; Revelations: Persona
             QUOTE "Lived in buried memory, with fear-ridden self-consciousness, I'm just a lone prayer"
 
+            ; Persona 2
+            QUOTE "I can't heal if I keep on running away from my own fate"
+            QUOTE "Night and day, gotta fight on every day", 0xA, \
+                  "To the place of my final destiny"
+
+
             ; Persona 3
                 QUOTE "The Arcana is the means by which all is revealed."
                 QUOTE "The meeting of two personalities is like the contact of two chemical substances:", 0xA, \
